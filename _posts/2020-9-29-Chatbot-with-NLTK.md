@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Building a Simple Chatbot with Python using NLTK
+title: Building Simple Chatbot with Python using NLTK
 ---
 
+![Building Chatbots In Python](https://cdn.hashnode.com/res/hashnode/image/upload/v1601415111258/E8N_sPwTE.jpeg?w=1200&h=630&fit=crop&crop=entropy&auto=compress)
 
 ### Introduction
  A chatbot is an artificial intelligence-powered piece of software in a device, application, website or other networks that try to gauge consumer’s needs and then assist them to perform a particular task like a commercial transaction, hotel booking, form submission etc, the possibilities are almost endless.

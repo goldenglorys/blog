@@ -2,6 +2,7 @@
 layout: post
 title: Explaining Tor the IC way
 ---
+
 ![Explaining Tor](https://chromeunboxed.com/wp-content/uploads/2020/03/torbrowserchromeos.jpg?)
 
 > Normally when you go online, your request for any website or Internet service travels from your computer more or less directly to the server that hosts your final destination, the site or service you are trying to visit/access. At every stop along the way, however, your request cherfully announces exactly where on the Internet it come from, and exactly where on the Internet it is going, thanks to identifiers called source and destination headers, which you can think of as the address info on a postcard. Because of these headers, your Internet browsing can easily be identified as yours by, among others, webmasters, network admins, and most importantly foreign entities and intelligence services.
